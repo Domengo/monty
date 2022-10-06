@@ -1,3 +1,11 @@
+
+# 0x19. C - Stacks, Queues - LIFO, FIFO
+
+A brief description of what this project does and who it's for
+
+
+## Documentation
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -2031,4 +2039,14 @@ alert(example);
 
   </body>
 </html>
+
+## Authors
+
+- [@Domengo](https://www.github.com/Domengo)
+
+
+## Demo
+
+Insert gif or link to demo
+
 
